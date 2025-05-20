@@ -16,7 +16,7 @@ VisionScribe is a React-based web app that transcribes and translates audio into
 - Whisper.cpp (integrated in browser)
 
 ## 📸 Demo
-https://www.vision-scribe.netlify.app/
+https://vision-scribe.netlify.app/
 
 ## 📂 Usage
 1. Upload your audio file.
